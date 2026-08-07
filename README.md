@@ -1,29 +1,44 @@
 # Michelle Juhanson
 
-Experienced compliance and AI governance operator building practical AI systems for regulated work, agentic workflows, and operational clarity.
+Compliance and AI governance executive building evidence-first systems for regulated work.
 
-**Compliance is about winning hearts and minds.** That is the operating principle behind my work across Medicare Part D, MA-PD, CMS audits, formulary governance, audit readiness, and regulatory operations.
+**20+ years in regulated healthcare · zero-finding CMS audit work · $1.4M client impact · Founder, [grAIce Tech](https://graice.tech) — AI with a soul**
 
-I spent 20+ years inside regulated healthcare programs, including zero-finding CMS audit work and a first-of-a-kind MPPP audit readiness product that generated $1.4M in client impact. Now I build daily with Claude, Codex, Gemini, and AI-native workflows to turn regulatory complexity into clearer systems.
+> Compliance is about winning hearts and minds.
 
-## What I am building
+I turn regulatory complexity into systems that agents can use and humans can audit. My work focuses on evidence, provenance, review gates, and operational clarity—especially where AI touches regulated decisions.
 
-These projects are small, practical tools for making AI-assisted work easier to track, review, and operationalize.
+## Selected work
 
-| Repo | Focus | Why it matters |
-| --- | --- | --- |
-| [shiplog](https://github.com/grAIcetech/shiplog) | Operational clarity | A single-file dashboard for tracking AI-assisted requests, outputs, status, and handoffs across sessions. |
-| [agentic-auth](https://github.com/grAIcetech/agentic-auth) | Agent-ready applications | A Claude skill that generates `auth.md` files and integration checklists for apps that need to support agent authentication. |
-| [prompt-coach](https://github.com/grAIcetech/prompt-coach) | Workflow quality | A Claude skill that adds one relevant prompting improvement after substantive requests. |
-| [shiplog-widget](https://github.com/grAIcetech/shiplog-widget) | Session visibility | A Claude skill for logging deliverables and rendering a concise recap before a productive session disappears. |
-| [renderrepo](https://github.com/grAIcetech/renderrepo) | Visual provenance | A JSON registry for tracking AI-generated visuals, source prompts, file locations, and publish status. |
+### [AI Model Provenance & Jurisdictional Exposure Guide](https://github.com/grAIcetech/ai-model-provenance-guide)
+
+A sourced assessment framework and local scanner for identifying model origin, data-path exposure, unsafe file formats, and practical controls.
+
+**Proof:** local, read-only scanner · explicit limitations · source standards · regulated-mode thresholds
+
+### [shiplog](https://github.com/grAIcetech/shiplog)
+
+A local, single-file dashboard for tracking AI-assisted requests, deliverables, status, artifacts, and handoffs across sessions.
+
+**Proof:** no server, database, account, framework, or build step · searchable · editable notes · Markdown export
+
+### [agentic-auth](https://github.com/grAIcetech/agentic-auth)
+
+A Claude skill that generates `auth.md` specifications and implementation checklists for applications that need governed agent access.
+
+**Proof:** scoped-credential guidance · protocol references · security checklist · evaluation cases
+
+## Additional tools
+
+- [prompt-coach](https://github.com/grAIcetech/prompt-coach) — adds one brief, contextual prompting improvement after substantive Claude requests.
+- [shiplog-widget](https://github.com/grAIcetech/shiplog-widget) — records session deliverables and renders a concise recap across Claude surfaces.
 
 ## How I work
 
-I build tools around the parts of AI adoption that are easy to underestimate: audit trails, review loops, provenance, handoffs, authentication, and the human trust required to make new systems useful.
+Trust is an operating requirement, not a marketing line. I separate claims from evidence, keep human approval gates explicit, and design systems that leave an audit trail.
 
-The throughline is grAIce Tech: practical AI systems for regulated work, agentic workflows, and teams that need clarity before scale.
+My background spans Medicare Part D, MA-PD, CMS audits, formulary governance, audit readiness, and regulatory operations.
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/askmj) · [Email](mailto:mjuhanson13@gmail.com) · [grAIce Tech](https://graice.tech)
+[grAIce Tech](https://graice.tech) — AI with a soul · [LinkedIn](https://linkedin.com/in/askmj) · [Email](mailto:mjuhanson13@gmail.com)
