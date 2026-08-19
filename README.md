@@ -1,3 +1,5 @@
+![grAIce Tech — Evidence-first systems for regulated work](./github-profile-banner.png)
+
 # Michelle Juhanson
 
 Compliance and AI governance executive building evidence-first systems for regulated work.
