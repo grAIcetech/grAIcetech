@@ -34,6 +34,7 @@ A Claude skill that generates `auth.md` specifications and implementation checkl
 
 - [prompt-coach](https://github.com/grAIcetech/prompt-coach) — adds one brief, contextual prompting improvement after substantive Claude requests.
 - [shiplog-widget](https://github.com/grAIcetech/shiplog-widget) — records session deliverables and renders a concise recap across Claude surfaces.
+- [codex-micro-glass-guide](https://github.com/grAIcetech/codex-micro-glass-guide) — a translucent, movable macOS learning guide and Codex skill for the Work Louder × OpenAI Codex Micro.
 
 ## How I work
 
