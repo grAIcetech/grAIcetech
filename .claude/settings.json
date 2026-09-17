@@ -1,0 +1,25 @@
+{
+  "extraKnownMarketplaces": {
+    "treg": {
+      "source": {
+        "source": "github",
+        "repo": "superdesigndev/treg"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "treg@treg": true
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "sh \"$CLAUDE_PROJECT_DIR\"/.claude/hooks/treg-setup.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
